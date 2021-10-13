@@ -9,4 +9,5 @@ I'm a web developer from Argentina, currently living in **Sydney, Australia**.
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayraborgonovo)](https://github.com/mayraborgonovo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayraborgonovo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
