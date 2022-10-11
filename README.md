@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mayra
 
-I'm a web developer from Argentina, currently living in **Sydney, Australia**.
+I'm a web developer basen in Sydney.
 
-- 🔭 I’m currently working with React.js, JavaScript.
+- 🔭 I’m currently working with React.js, TypeScript.
 
 - 👨‍💻 My projects are available at [mayraborgonovo.com](mayraborgonovo.com)
 
